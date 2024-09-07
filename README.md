@@ -1,4 +1,4 @@
-**These projects leverages SQLite within SQL Workbench to analyze various datasets derived from CSV files, focusing on extracting actionable business insights and guiding strategic decision-making. By employing SQL queries and data manipulation techniques, the analysis aims to uncover key trends, patterns, and performance metrics that inform business strategies.**
+**These projects leverages SQLite within SQL Workbench to analyze various datasets derived from CSV files, focusing on extracting actionable business insights and guiding strategic decision-making.**
 
 
 # **1-E Commerce Business Data Analysis**  
