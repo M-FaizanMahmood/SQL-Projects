@@ -29,7 +29,7 @@ The database consists of a single table named ORDERS, with the following columns
 
 - REVENUE: Calculated as the product of price and quantity.
 
-**Key Analyses:**
+**Key Analysis:**
 
 - Sales by Category: Queries retrieve total sales and product demand by category, with a focus on high-revenue categories like Electronics.
 
@@ -109,7 +109,7 @@ The project involves creating and populating three primary tables:
 
 
 
-**Key Analyses:**
+**Key Analysis:**
 
 - Customer Spending: Total amount spent by each customer at the diner.
 
@@ -168,7 +168,7 @@ The analysis utilizes the following tables:
 - Order_Details: Information on food items included in each order.
 
 
-**Key Analyses:**
+**Key Analysis:**
 
 - Customers Who Have Never Ordered:
 
