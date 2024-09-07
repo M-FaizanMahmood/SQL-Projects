@@ -1,10 +1,15 @@
 all of the proejcts are done using sql lite on sql workbench 
 
+
 # **1-E-Commerce Data Analysis Project**
+
+**Project Overview:**
 
 I created a database using SQL to manage and analyze ecommerce orders. Key features include:
 
+
 **Order Table**: Contains customer information, product details, price, and order date.
+
 
 **Data Analysis:**
 
@@ -52,5 +57,6 @@ These queries provided insights into the book dataset, such as:
 - Price Distribution: Identifying high-priced books and potential target markets.
 
 - Product Popularity: Identifying top-rated books and customer preferences.
+
 
 
